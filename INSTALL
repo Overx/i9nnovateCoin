@@ -1,0 +1,9 @@
+Building i9nnovateCoin
+
+See doc/readme-qt.rst for instructions on building i9nnovateCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of i9nnovateCoin.
+
+See doc/build-*.txt for instructions on building i9nnovatecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of i9nnovateCoin.
